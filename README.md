@@ -8,6 +8,6 @@ I don’t have a lot of instruction, I'm free to implement it the way that I wan
 
 Here the final result:
 
-![enter image description here](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/3c71cc99d2fc1c12a3d3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN/20210914/us-east-1/s3/aws4_request&X-Amz-Date=20210914T102135Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=43ade75fc0612c616aa3d38b7fbd4ac01459b52ee75fb1638199c32a3e3c263e)
+![enter image description here](https://lh3.googleusercontent.com/pw/AM-JKLUpTQORJHLJUQ_Ok4C87hFwxsuDYK3K8J5uXiqVaoU7ZGbYTJAePyssFhU5JecrgjnIGiv7fzzqP4lgz7Pzmp7BTwYuPx5tRaYE3fkAkbc56ApSksIL40Np4Mn8YFyql04I9tsvvhQygkXUgIOpWXyT=w1080-h1531-no?authuser=0)
 
 This webpage has been designed by Nicolas Philippot, UI/UX designer. You can find final screens [here](https://intranet-projects-files.s3.amazonaws.com/holbertonschool-webstack/623/Archive.zip "here")
